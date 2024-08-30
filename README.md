@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on website programming, games, etc.
 - 📫 How to reach me right here on GitHub or Instagram
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love hardware, assembling computers and I enjoy programming!
+- ⚡ Fun fact: I love hardware, assembling computers and I like programming!
 
 <!---
 RdzzinJR/RdzzinJR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
